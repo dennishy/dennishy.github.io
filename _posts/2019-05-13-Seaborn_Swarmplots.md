@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tidy Data with Python and Pandas: A Quick Primer"
+title: "Seaborn: A Swarmplot of Formula 1 Pit Times in 2019"
 date: 2020-05-13 12:00:00 -0000
 categories: VIZ
 ---
