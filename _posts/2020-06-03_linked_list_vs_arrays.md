@@ -4,6 +4,7 @@ title: "Linked Lists vs Arrays"
 date: 2020-06-03 12:00:00 -0000
 categories: PYTHON 
 ---
+
 ## Linked Lists
 A Linked List is a collection of nodes. Linked Lists can be used to create queues, stacks, and graphs (among other structures). Each node has two fields: **Data** and **Next**. The **Data** field contains the data to be stored and **Next** points to the next **Node** in the Linked List. 
 

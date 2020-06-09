@@ -4,6 +4,7 @@ title: "Python 3: Sliding Window Iteration"
 date: 2020-06-08 12:00:00 -0000
 categories: PYTHON 
 ---
+
 ### The Sliding Window Iterator
 
 The sliding window iterator is an effective method of iterating through a list to evaluate sequential values. 
