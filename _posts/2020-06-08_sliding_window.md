@@ -21,9 +21,7 @@ The solution substring we are looking for would be:
 
 An implementation of the sliding method is as follows, leveraging a dicussion submission from user 'clfm' on leetcode:
 
-
-{% highlight py %}
-
+```
 s = 'abbbcabc'
 
 longest, left, right = 0, 0, 0
@@ -48,5 +46,4 @@ while right < len(s):
         left += 1
 
 print(longest)
-
-{% endhighlight %}
+```
