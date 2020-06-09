@@ -9,8 +9,6 @@ A Linked List is a collection of nodes. Linked Lists can be used to create queue
 
 The first node in a Linked List is the **head**. The last node has a **Next** value of **None**. 
 
-
-
 See this excellent write up at [realpython](https://realpython.com/linked-lists-python/). 
 
 Linked Lists allow data to be stored anywhere in memory (See 'grokking algorithms' by Aditya Y. Bhargava) and are faster for **inserts** (O(1)) as a result. Conversely, they are slower for **reads** because you would have to traverse each node if the data you're looking for is near the end of the Linked List (O(n)). 

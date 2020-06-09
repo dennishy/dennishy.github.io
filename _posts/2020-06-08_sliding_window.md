@@ -21,7 +21,7 @@ The solution substring we are looking for would be:
 An implementation of the sliding method is as follows, leveraging a dicussion submission from user 'clfm' on leetcode:
 
 
-{% highlight python %}
+{% highlight py %}
 
 s = 'abbbcabc'
 
