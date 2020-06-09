@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linked Lists vs Arrays"
-date: 2020-06-04 12:00:00 -0000
+date: 2020-06-03 12:00:00 -0000
 categories: PYTHON 
 ---
 ## Linked Lists
