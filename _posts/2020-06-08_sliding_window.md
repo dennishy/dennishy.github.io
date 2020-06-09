@@ -22,6 +22,7 @@ An implementation of the sliding method is as follows, leveraging a dicussion su
 
 
 {% highlight python %}
+
 s = 'abbbcabc'
 
 longest, left, right = 0, 0, 0
