@@ -43,3 +43,8 @@ A few quick ones:
 2. Terminal sessions use 'console' alias: 'terminal', 'shell_session', 'shell-session'
 
 3. YAML and XML use 'yaml' and 'xml' respectively
+
+## Posts not showing
+(Edited 6/11/2020)
+
+Posts need a certain format to be reflected in pages. The typical format is 'YYYY-MM-DD-[post_title]' and the dash between the date and title is critical. Pages won't post any .md files on your github page if there is an underscore '_' instead of the dash '-'. 
